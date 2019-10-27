@@ -1,0 +1,12 @@
+# Blender MTL File: 'trabant.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 45.098039
+Ka 0.766434 0.800000 0.329265
+Kd 0.613147 0.640000 0.263412
+Ks 0.163942 0.252212 0.216332
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
